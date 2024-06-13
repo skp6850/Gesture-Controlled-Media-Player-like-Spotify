@@ -16,3 +16,13 @@ A set of predefined hand gestures that control media playback functions:
 This project successfully demonstrates the application of computer vision for controlling media playback through hand
 gestures, providing a touch-free and intuitive user experience. The implemented system can be further enhanced and
 adapted for various other applications requiring gesture-based interactions.
+
+
+
+_________________________________________________________________________________________________________________________________
+
+Tools & Technology Used:
+Python
+OpenCV (for image processing and computer vision tasks)
+Numpy (for numerical operations)
+pyautogui (for simulating keyboard events)
