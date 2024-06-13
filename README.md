@@ -22,7 +22,10 @@ adapted for various other applications requiring gesture-based interactions.
 _________________________________________________________________________________________________________________________________
 
 Tools & Technology Used:
-Python
-OpenCV (for image processing and computer vision tasks)
-Numpy (for numerical operations)
-pyautogui (for simulating keyboard events)
+**Python**,
+
+**OpenCV**(for image processing and computer vision tasks),
+
+**Numpy** (for numerical operations),
+
+**pyautogui** (for simulating keyboard events)
